@@ -1,20 +1,20 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Player",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "FriendlySurvival1.aternos.me",
+    "port": 16037,
     "version": "1.21.1"
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 999999,
     "y": 100,
-    "z": 0
+    "z": 999999
   },
   "utils": {
     "auto-auth": {
